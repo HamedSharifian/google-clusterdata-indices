@@ -1,0 +1,11 @@
+https://commondatastorage.googleapis.com/clusterdata-2011-2/MD5SUM
+https://commondatastorage.googleapis.com/clusterdata-2011-2/README
+https://commondatastorage.googleapis.com/clusterdata-2011-2/SHA1SUM
+https://commondatastorage.googleapis.com/clusterdata-2011-2/SHA256SUM
+https://commondatastorage.googleapis.com/clusterdata-2011-2/schema.csv
+https://commondatastorage.googleapis.com/clusterdata-2011-2/job_events/
+https://commondatastorage.googleapis.com/clusterdata-2011-2/machine_attributes/
+https://commondatastorage.googleapis.com/clusterdata-2011-2/machine_events/
+https://commondatastorage.googleapis.com/clusterdata-2011-2/task_constraints/
+https://commondatastorage.googleapis.com/clusterdata-2011-2/task_events/
+https://commondatastorage.googleapis.com/clusterdata-2011-2/task_usage/

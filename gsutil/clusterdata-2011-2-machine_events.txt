@@ -1,0 +1,1 @@
+gs://clusterdata-2011-2/machine_events/part-00000-of-00001.csv.gz

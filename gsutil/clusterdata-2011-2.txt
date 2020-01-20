@@ -1,0 +1,11 @@
+gs://clusterdata-2011-2/MD5SUM
+gs://clusterdata-2011-2/README
+gs://clusterdata-2011-2/SHA1SUM
+gs://clusterdata-2011-2/SHA256SUM
+gs://clusterdata-2011-2/schema.csv
+gs://clusterdata-2011-2/job_events/
+gs://clusterdata-2011-2/machine_attributes/
+gs://clusterdata-2011-2/machine_events/
+gs://clusterdata-2011-2/task_constraints/
+gs://clusterdata-2011-2/task_events/
+gs://clusterdata-2011-2/task_usage/
